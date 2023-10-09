@@ -35,4 +35,4 @@ print(f"d(ref, p0) = {distances['p0']}")
 print(f"d(ref, p1) = {distances['p1']}")
 ```
 
-See `tests.py` as well as as the docstrings in `lasi/lasi.py` for more examples.
+See `tests.py` as well as docstrings in `lasi/lasi.py` for more examples.
