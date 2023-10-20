@@ -1,4 +1,6 @@
 # The Unreasonable Effectiveness of Linear Prediction as a Perceptual Metric
+Daniel Severo, Lucas Theis, Johannes Ballé
+
 [![Python application](https://github.com/dsevero/Linear-Autoregressive-Similarity-Index/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/dsevero/Linear-Autoregressive-Similarity-Index/actions/workflows/tests.yml)
 <img src="assets/lasi.svg" width="450" align="right">
 [![arXiv](https://img.shields.io/badge/arXiv-2310.05986-b31b1b.svg)](https://arxiv.org/abs/2310.05986)
