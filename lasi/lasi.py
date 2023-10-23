@@ -44,7 +44,8 @@ class LASI:
       neighborhood_size: controls the size of the causal neighborhood.
       ols_regularization_coef: controls the regularization of the OLS problem.
       unit_normalize_features: if true, normalizes the params (OLS solutions)
-        when computing the jlixbawls distance metric.
+        when computing distances in `LASI.compute_distance` and 
+        `LASI.compute_distance_multiple`.
 
     Attributes:
       all_elements_idx_flat: 1D-array of values in range 0 to `math.prod(shape)-1`
